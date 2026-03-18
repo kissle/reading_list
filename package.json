@@ -1,0 +1,19 @@
+{
+  "name": "reading-list",
+  "version": "1.0.0",
+  "description": "Personal book collection and reading list — markdown-first, JSON-backed.",
+  "private": true,
+  "scripts": {
+    "build:docs": "node scripts/build-markdown.js",
+    "validate": "node scripts/validate-data.js",
+    "add-book": "node scripts/add-book.js"
+  },
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-formats": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

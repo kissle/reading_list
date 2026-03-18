@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "reading-list.schema.json",
+  "title": "ReadingList",
+  "description": "The personal reading list, split into current reads, next-up queue, and parking lot.",
+  "type": "object",
+  "required": ["current", "nextUp", "parkingLot"],
+  "additionalProperties": false,
+  "properties": {
+    "current": {
+      "type": "array",
+      "description": "Books you are actively reading right now.",
+      "items": { "$ref": "#/definitions/readingListEntry" }
+    },
+    "nextUp": {
+      "type": "array",
+      "description": "Books you plan to start next, in rough priority order.",
+      "items": { "$ref": "#/definitions/readingListEntry" }
+    },
+    "parkingLot": {
+      "type": "array",
+      "description": "Books you want to keep on the radar but are not actively planning.",
+      "items": { "$ref": "#/definitions/readingListEntry" }
+    }
+  },
+  "definitions": {
+    "readingListEntry": {
+      "type": "object",
+      "required": ["bookId", "addedAt"],
+      "additionalProperties": false,
+      "properties": {
+        "bookId": {
+          "type": "string",
+          "description": "References the id field in books.json.",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "addedAt": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO 8601 timestamp when this entry was added to the reading list."
+        },
+        "note": {
+          "type": "string",
+          "description": "Optional personal note about why or when to read this."
+        }
+      }
+    }
+  }
+}
