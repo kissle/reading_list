@@ -10,6 +10,8 @@
 
 - **Building a StoryBrand** by Donald Miller — *Needed for upcoming brand clarity work.*
 - **The Art of Thinking Clearly** by Rolf Dobelli — *Dip in and out — great as a reference too.*
+- **Oversubscribed** by Daniel Priestley — *Useful for sharpening demand generation and launch thinking.*
+- **The Embedded Entrepreneur** by Arvid Kahl — *Relevant for customer-first product and business building ideas.*
 
 ## 🅿️ Parking Lot
 
