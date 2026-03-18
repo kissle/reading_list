@@ -1,0 +1,7 @@
+interface:
+  display_name: "Book Screenshot Intake"
+  short_description: "Capture books from screenshots into the library repo."
+  default_prompt: "Use $book-screenshot-library-intake to inspect these screenshots, dedupe against data/books.json, add only clearly new books, validate the data, and rebuild the generated docs."
+
+policy:
+  allow_implicit_invocation: true
