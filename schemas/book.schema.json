@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "book.schema.json",
+  "title": "Book",
+  "description": "A single book entry in the personal library collection.",
+  "type": "object",
+  "required": ["id", "title", "author", "category", "status", "createdAt", "updatedAt"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique slug-based identifier, e.g. 'managing-oneself'.",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "description": "Full title of the book."
+    },
+    "author": {
+      "type": "string",
+      "description": "Author(s), comma-separated for multiple authors."
+    },
+    "category": {
+      "type": "string",
+      "description": "Primary category / topic area, e.g. 'productivity', 'marketing'."
+    },
+    "source": {
+      "type": "string",
+      "description": "How you heard about this book."
+    },
+    "whyInteresting": {
+      "type": "string",
+      "description": "Short note on why this book caught your attention."
+    },
+    "keyPromise": {
+      "type": "string",
+      "description": "The core value proposition or takeaway promised by the book."
+    },
+    "effortLevel": {
+      "type": "string",
+      "enum": ["easy", "medium", "hard"],
+      "description": "Estimated reading effort relative to length and density."
+    },
+    "priority": {
+      "type": "string",
+      "enum": ["low", "maybe", "high"],
+      "description": "How urgently you want to read this book."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["not_started", "reading", "finished", "dropped"],
+      "description": "Current reading status."
+    },
+    "useCase": {
+      "type": "string",
+      "description": "Comma-separated use cases or contexts where this book applies."
+    },
+    "format": {
+      "type": "string",
+      "enum": ["book", "audiobook", "pdf"],
+      "description": "Intended or actual consumption format."
+    },
+    "estimatedHours": {
+      "type": ["number", "null"],
+      "minimum": 0,
+      "description": "Rough estimate of hours to read."
+    },
+    "rating": {
+      "type": ["number", "null"],
+      "minimum": 1,
+      "maximum": 5,
+      "description": "Your personal rating out of 5, or null if not yet read."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Free-form personal notes or highlights."
+    },
+    "createdAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this entry was created."
+    },
+    "updatedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp when this entry was last updated."
+    }
+  }
+}

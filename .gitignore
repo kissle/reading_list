@@ -1,0 +1,8 @@
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+
+# Ignore imported screenshot images but keep the directory
+data/imports/screenshots/*
+!data/imports/screenshots/.gitkeep

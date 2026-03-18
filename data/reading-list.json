@@ -1,0 +1,33 @@
+{
+  "current": [
+    {
+      "bookId": "managing-oneself",
+      "addedAt": "2026-03-18T00:00:00.000Z",
+      "note": "Short read, high leverage — a good starting point."
+    }
+  ],
+  "nextUp": [
+    {
+      "bookId": "building-a-storybrand",
+      "addedAt": "2026-03-18T00:00:00.000Z",
+      "note": "Needed for upcoming brand clarity work."
+    },
+    {
+      "bookId": "the-art-of-thinking-clearly",
+      "addedAt": "2026-03-18T00:00:00.000Z",
+      "note": "Dip in and out — great as a reference too."
+    }
+  ],
+  "parkingLot": [
+    {
+      "bookId": "pre-suasion",
+      "addedAt": "2026-03-18T00:00:00.000Z",
+      "note": "Interesting but lower urgency right now."
+    },
+    {
+      "bookId": "yes-50-secrets",
+      "addedAt": "2026-03-18T00:00:00.000Z",
+      "note": "Skim for the techniques; not a cover-to-cover read."
+    }
+  ]
+}
