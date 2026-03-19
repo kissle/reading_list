@@ -1,0 +1,67 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "inventory.schema.json",
+  "title": "Inventory",
+  "description": "Normalized physical inventory for books and their storage locations.",
+  "type": "object",
+  "required": ["locations", "items"],
+  "additionalProperties": false,
+  "properties": {
+    "locations": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/location" }
+    },
+    "items": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/item" }
+    }
+  },
+  "definitions": {
+    "location": {
+      "type": "object",
+      "required": ["id", "label", "type"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "label": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["box", "shelf", "crate", "other"]
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    },
+    "item": {
+      "type": "object",
+      "required": ["id", "bookId", "locationId"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "bookId": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "locationId": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "sourceId": {
+          "type": ["string", "null"]
+        },
+        "note": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

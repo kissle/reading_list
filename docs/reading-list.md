@@ -10,8 +10,10 @@
 
 - **Building a StoryBrand** by Donald Miller — *Needed for upcoming brand clarity work.*
 - **The Art of Thinking Clearly** by Rolf Dobelli — *Dip in and out — great as a reference too.*
+- **The Mom Test** by Rob Fitzpatrick — *Added from your physical collection.*
 - **Oversubscribed** by Daniel Priestley — *Useful for sharpening demand generation and launch thinking.*
 - **The Embedded Entrepreneur** by Arvid Kahl — *Relevant for customer-first product and business building ideas.*
+- **$100M Offers** by Alex Hormozi — *Added from your physical collection.*
 
 ## 🅿️ Parking Lot
 

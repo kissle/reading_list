@@ -6,7 +6,8 @@
   "scripts": {
     "build:docs": "node scripts/build-markdown.js",
     "validate": "node scripts/validate-data.js",
-    "add-book": "node scripts/add-book.js"
+    "add-book": "node scripts/add-book.js",
+    "import:inventory": "node scripts/import-inventory.js"
   },
   "dependencies": {
     "ajv": "^8.17.1",

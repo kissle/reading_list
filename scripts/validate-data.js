@@ -37,6 +37,12 @@ const FILES = [
     isArray: false,
     label: 'reading-list.json',
   },
+  {
+    dataPath: path.join(ROOT, 'data', 'inventory.json'),
+    schemaPath: path.join(ROOT, 'schemas', 'inventory.schema.json'),
+    isArray: false,
+    label: 'inventory.json',
+  },
 ];
 
 // ---------------------------------------------------------------------------
@@ -73,6 +79,51 @@ function checkDuplicateIds(books) {
     }
     seen.add(book.id);
   }
+  return errors;
+}
+
+/**
+ * Check for duplicate ids in inventory.json sections.
+ */
+function checkInventoryDuplicateIds(inventory) {
+  const errors = [];
+  const seenLocations = new Set();
+  const seenItems = new Set();
+
+  for (const location of inventory.locations || []) {
+    if (seenLocations.has(location.id)) {
+      errors.push(`inventory.json: duplicate location id "${location.id}"`);
+    }
+    seenLocations.add(location.id);
+  }
+
+  for (const item of inventory.items || []) {
+    if (seenItems.has(item.id)) {
+      errors.push(`inventory.json: duplicate item id "${item.id}"`);
+    }
+    seenItems.add(item.id);
+  }
+
+  return errors;
+}
+
+/**
+ * Verify that every inventory reference resolves.
+ */
+function checkInventoryRefs(books, inventory) {
+  const errors = [];
+  const bookIds = new Set(books.map((b) => b.id));
+  const locationIds = new Set((inventory.locations || []).map((l) => l.id));
+
+  for (const item of inventory.items || []) {
+    if (!bookIds.has(item.bookId)) {
+      errors.push(`inventory.json: item "${item.id}" references missing bookId "${item.bookId}"`);
+    }
+    if (!locationIds.has(item.locationId)) {
+      errors.push(`inventory.json: item "${item.id}" references missing locationId "${item.locationId}"`);
+    }
+  }
+
   return errors;
 }
 
@@ -129,6 +180,7 @@ function main() {
   // Cross-file checks.
   const books = loaded['books.json'];
   const readingList = loaded['reading-list.json'];
+  const inventory = loaded['inventory.json'];
 
   if (books && readingList) {
     const duplicateErrors = checkDuplicateIds(books);
@@ -139,6 +191,22 @@ function main() {
       console.log('✔ Cross-file references valid');
     } else {
       for (const err of crossErrors) {
+        console.error(`✖ ${err}`);
+      }
+      hasErrors = true;
+    }
+  }
+
+  if (books && inventory) {
+    const inventoryErrors = [
+      ...checkInventoryDuplicateIds(inventory),
+      ...checkInventoryRefs(books, inventory),
+    ];
+
+    if (inventoryErrors.length === 0) {
+      console.log('✔ Inventory references valid');
+    } else {
+      for (const err of inventoryErrors) {
         console.error(`✖ ${err}`);
       }
       hasErrors = true;

@@ -1,0 +1,2548 @@
+{
+  "locations": [
+    {
+      "id": "unknown-location",
+      "label": "Unknown location",
+      "type": "other"
+    },
+    {
+      "id": "crowdfarming-box-1",
+      "label": "CrowdFarming Box 1",
+      "type": "box"
+    },
+    {
+      "id": "crowdfarming-box-2",
+      "label": "CrowdFarming Box 2",
+      "type": "box"
+    },
+    {
+      "id": "crowdfarming-box-3",
+      "label": "CrowdFarming Box 3",
+      "type": "box"
+    },
+    {
+      "id": "weinkiste-4",
+      "label": "Weinkiste 4",
+      "type": "crate"
+    },
+    {
+      "id": "crowdfarming-box-4",
+      "label": "CrowdFarming Box 4",
+      "type": "box"
+    },
+    {
+      "id": "crowdfarming-box-5",
+      "label": "CrowdFarming Box 5",
+      "type": "box"
+    },
+    {
+      "id": "crowdfarming-box-6",
+      "label": "CrowdFarming Box 6",
+      "type": "box"
+    },
+    {
+      "id": "crowdfarming-box-7",
+      "label": "CrowdFarming Box 7",
+      "type": "box"
+    },
+    {
+      "id": "crowdfarming-box-8",
+      "label": "CrowdFarming Box 8",
+      "type": "box"
+    },
+    {
+      "id": "ikea-9",
+      "label": "IKEA #9",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-10",
+      "label": "IKEA #10",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-11",
+      "label": "IKEA #11",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-12",
+      "label": "IKEA #12",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-13",
+      "label": "IKEA #13",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-14",
+      "label": "IKEA #14",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-15",
+      "label": "IKEA #15",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-16",
+      "label": "IKEA #16",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-16-tansania",
+      "label": "IKEA #16 —> Tansania",
+      "type": "shelf"
+    },
+    {
+      "id": "ikea-17",
+      "label": "IKEA #17",
+      "type": "shelf"
+    }
+  ],
+  "items": [
+    {
+      "id": "item-3d4760f9d6d0d31d90d7d67f88315573",
+      "bookId": "zuruck-an-die-arbeit-wie-aus-business-theatern-wieder-echte-unternehmen-werden",
+      "locationId": "unknown-location",
+      "sourceId": "3d4760f9d6d0d31d90d7d67f88315573"
+    },
+    {
+      "id": "item-e5b6bbb5307bbb186e0fe73d80aa7871",
+      "bookId": "grundgebiete-der-elektrotechnik-1-gleichstromnetze-operationsver-starkerschaltungen-elektrische-und-magnetische-felder",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "e5b6bbb5307bbb186e0fe73d80aa7871"
+    },
+    {
+      "id": "item-26b3b7a7495795ec35c245e1e6fb6d6a",
+      "bookId": "grundgebiete-der-elektrotechnik-2-wechselstrome-drehstrom-leitungen-anwendungen-der-fourier-der-laplace-und-der-z-transformation",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "26b3b7a7495795ec35c245e1e6fb6d6a"
+    },
+    {
+      "id": "item-64f9583bb4d71094755f7beb2e635388",
+      "bookId": "aufgabensammlung-zu-den-grundlagen-der-elektrotechnik-mit-losungen-und-ausfuhrlichen-losungswegen",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "64f9583bb4d71094755f7beb2e635388"
+    },
+    {
+      "id": "item-2ccb62cd82c2ca64a5ed73e82804f790",
+      "bookId": "skriptum-zu-grundlagen-der-elektrodynamik-und-technische-elektrodynamik-fachbereich-18-elektrotechnik-und-informationstechnik",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "2ccb62cd82c2ca64a5ed73e82804f790"
+    },
+    {
+      "id": "item-f8e8c60533bbd3d10d73d5de5de6d4ec",
+      "bookId": "grundlagen-der-elektrotechnik-das-bewahrte-lehrbuch-fur-studierende-der-elektrotechnik-und-anderer-technischer-studiengange-ab-1-semester",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "f8e8c60533bbd3d10d73d5de5de6d4ec"
+    },
+    {
+      "id": "item-0c534b618d1847c5b6d6e3c43698bf29",
+      "bookId": "skript-zur-vorlesung-mechanik-i-fur-elektrotechniker-5-auflage",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "0c534b618d1847c5b6d6e3c43698bf29"
+    },
+    {
+      "id": "item-f14e54995788056b453ab7262a4169fd",
+      "bookId": "the-simulation-platform-for-power-electronic-systems-workshop-documentation-vol-1-2016",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "f14e54995788056b453ab7262a4169fd"
+    },
+    {
+      "id": "item-3ae971acf325648d53e759c8ff29bb59",
+      "bookId": "grundlagen-der-vektoriellen-netzwerkanalyse",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "3ae971acf325648d53e759c8ff29bb59"
+    },
+    {
+      "id": "item-5976acc2d3d8fe5528c92c4a78bdde89",
+      "bookId": "grundlagen-der-spektrumanalyse",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "5976acc2d3d8fe5528c92c4a78bdde89"
+    },
+    {
+      "id": "item-411542f77d72c233da17ddbe67b1b920",
+      "bookId": "filtern-ohne-stress-theorie-konzept-praxis",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "411542f77d72c233da17ddbe67b1b920"
+    },
+    {
+      "id": "item-dc35d89e85e128fb68bd3bcd8e62dc17",
+      "bookId": "systemdynamik-und-regelungstechnik-iii",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "dc35d89e85e128fb68bd3bcd8e62dc17"
+    },
+    {
+      "id": "item-da67ddeed86239bbeec08d046669950c",
+      "bookId": "systemdynamik-und-regelungstechnik-iii-aufgabensammlung",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "da67ddeed86239bbeec08d046669950c"
+    },
+    {
+      "id": "item-072cf26e63a4a79c3ce39e50a0f5d56e",
+      "bookId": "systemdynamik-und-regelungstechnik-ii-aufgabensammlung",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "072cf26e63a4a79c3ce39e50a0f5d56e"
+    },
+    {
+      "id": "item-c903a5aaadd9ab5d3046dc4b27546111",
+      "bookId": "formelsammlung-der-matrizenrechnung",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "c903a5aaadd9ab5d3046dc4b27546111"
+    },
+    {
+      "id": "item-b243640bce2a25d9da1a9a35be3158e8",
+      "bookId": "formeln-hilfen-zur-hoheren-mathematik",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "b243640bce2a25d9da1a9a35be3158e8"
+    },
+    {
+      "id": "item-09cde23a07572fad2b88508f5b16a6f4",
+      "bookId": "physik-fur-ingenieure",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "09cde23a07572fad2b88508f5b16a6f4"
+    },
+    {
+      "id": "item-7824e5030d136ba426b3951dcc7829e1",
+      "bookId": "309-schaltungen",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "7824e5030d136ba426b3951dcc7829e1"
+    },
+    {
+      "id": "item-bf0ccbe664d8ce6defae18cbc1b4b40c",
+      "bookId": "arbeitsbuch-mathematik-fur-ingenieure-band-analysis-und-lineare-algebra",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "bf0ccbe664d8ce6defae18cbc1b4b40c"
+    },
+    {
+      "id": "item-23e354eb88dd2206e38297d580e4e6a5",
+      "bookId": "fluke-messfibel-das-wichtigste-fur-den-elektropraktiker-aus-betriebssicherheitsverordnung-din-vde-und-ove-e-8001-nin-niv-mit-grenzwerten-fur-e-check",
+      "locationId": "crowdfarming-box-1",
+      "sourceId": "23e354eb88dd2206e38297d580e4e6a5"
+    },
+    {
+      "id": "item-5cefafd0f37dd60d8832571b53bb714f",
+      "bookId": "digital-signal-processing-and-spectral-analysis-for-scientists-concepts-and-applications",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "5cefafd0f37dd60d8832571b53bb714f"
+    },
+    {
+      "id": "item-6541ceaff7486d1244217baa5d2bf069",
+      "bookId": "fourier-analysis-a-signal-processing-approach-extras-online",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "6541ceaff7486d1244217baa5d2bf069"
+    },
+    {
+      "id": "item-8b3e0e7b7fb5431619ac04a73ff7e9e8",
+      "bookId": "optimierung-statische-dynamische-stochastische-verfahren-fur-die-anwendung",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "8b3e0e7b7fb5431619ac04a73ff7e9e8"
+    },
+    {
+      "id": "item-101f2bcc1f70d1a2416a804077742a78",
+      "bookId": "unified-signal-theory",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "101f2bcc1f70d1a2416a804077742a78"
+    },
+    {
+      "id": "item-7c36dd8d0f58d67527a7e4fb4d50e45c",
+      "bookId": "power-electronic-converters-modeling-and-control-with-case-studies",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "7c36dd8d0f58d67527a7e4fb4d50e45c"
+    },
+    {
+      "id": "item-2d1278869ff65946823c58462d0e4bc7",
+      "bookId": "digital-signal-processing-in-power-electronics-control-circuits-power-systems",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "2d1278869ff65946823c58462d0e4bc7"
+    },
+    {
+      "id": "item-07ffb816a6e8cbc26407a8abc0dbf62e",
+      "bookId": "steuerungs-und-regelungstechnik-fuzzy-logik-neuronale-netze-und-evolutionare-algorithmen",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "07ffb816a6e8cbc26407a8abc0dbf62e"
+    },
+    {
+      "id": "item-c27f2a8cde24088c0018cad56cbb41b3",
+      "bookId": "steuerungs-und-regelungstechnik-systemdynamik-und-regelungstechnik-ii",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "c27f2a8cde24088c0018cad56cbb41b3"
+    },
+    {
+      "id": "item-20d2417deb5ad1ef641fd8dd306ab9ff",
+      "bookId": "grid-converters-for-photovoltaic-and-wind-power-systems",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "20d2417deb5ad1ef641fd8dd306ab9ff"
+    },
+    {
+      "id": "item-7b471bad19111dc3e932bbf5bc172c7a",
+      "bookId": "kupfmuller-theoretische-elektrotechnik-elektromagnetische-felder-schaltungen-und-elektronische-bauelemente",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "7b471bad19111dc3e932bbf5bc172c7a"
+    },
+    {
+      "id": "item-4e6ec93835fe1ea3a3fafd25ed0d6ec9",
+      "bookId": "trilogie-der-induktiven-bauelemente-applikationshandbuch-fur-emv-filter-getaktete-stromversorgungen-und-hf-schaltungen",
+      "locationId": "crowdfarming-box-2",
+      "sourceId": "4e6ec93835fe1ea3a3fafd25ed0d6ec9"
+    },
+    {
+      "id": "item-2a74276baa967fca0f9dea7ed522e850",
+      "bookId": "netzruckwirkungen-theorie-simulation-messung-und-bewertung-nach-din-vde-0838-din-vde-0839-und-den-vdew-richtlinien-mit-simulationsbeispielen-in-simplorer-und-messbeispielen-von-netzgekoppelten-photovoltaik-und-windkraftanlagen",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "2a74276baa967fca0f9dea7ed522e850"
+    },
+    {
+      "id": "item-c1c5e73548b160c49b8abce1731580ed",
+      "bookId": "regelung-von-batteriestromrichtern-in-modularen-und-erweiterbaren-inselnetzen",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "c1c5e73548b160c49b8abce1731580ed"
+    },
+    {
+      "id": "item-6d72680fe1a81ad959e0f5cd6236cb08",
+      "bookId": "stabilitat-wechselrichtergefuhrter-inselnetze",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "6d72680fe1a81ad959e0f5cd6236cb08"
+    },
+    {
+      "id": "item-0fe6d27dd374e27fb6f3905c8449e4fe",
+      "bookId": "fundamentals-of-power-electronics-second-edition",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "0fe6d27dd374e27fb6f3905c8449e4fe"
+    },
+    {
+      "id": "item-c49c9452a37c905b40a059ecec47e240",
+      "bookId": "power-system-dynamics-stability-and-control",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "c49c9452a37c905b40a059ecec47e240"
+    },
+    {
+      "id": "item-b2cbaf0e2ffe27145918669a6235f58a",
+      "bookId": "embedded-linux-lernen-mit-dem-raspberry-pi",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "b2cbaf0e2ffe27145918669a6235f58a"
+    },
+    {
+      "id": "item-0d3382c117c0405b70ae10ac81646e22",
+      "bookId": "linux-treiber-entwickeln-eine-systematische-einfuhrung-in-die-geratetreiber-und-kernelprogrammierung",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "0d3382c117c0405b70ae10ac81646e22"
+    },
+    {
+      "id": "item-5dca289ac1bfd3aa68690fc6a39e2615",
+      "bookId": "mastering-embedded-kernel-programming-unleash-the-full-potential-of-embedded-linux-with-linux-4-9-and-yocto-project-2-2-morty-updates",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "5dca289ac1bfd3aa68690fc6a39e2615"
+    },
+    {
+      "id": "item-186cd5f2562d007a30cd893667242b31",
+      "bookId": "physikbuch-vom-big-bang-zur-quantenauferstehung",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "186cd5f2562d007a30cd893667242b31"
+    },
+    {
+      "id": "item-bbd7f6c487c0037e507c9f1e042ff938",
+      "bookId": "der-termin-ein-roman-uber-projektmanagement",
+      "locationId": "crowdfarming-box-3",
+      "sourceId": "bbd7f6c487c0037e507c9f1e042ff938"
+    },
+    {
+      "id": "item-f51dcb356ab6be9e644f137672999481",
+      "bookId": "deception-point",
+      "locationId": "weinkiste-4",
+      "sourceId": "f51dcb356ab6be9e644f137672999481"
+    },
+    {
+      "id": "item-d7caf9cd514e0a4ea2f2f0bb20f96e0a",
+      "bookId": "das-verlorene-symbol",
+      "locationId": "weinkiste-4",
+      "sourceId": "d7caf9cd514e0a4ea2f2f0bb20f96e0a"
+    },
+    {
+      "id": "item-db47755757ba17955609a6b03c7b1834",
+      "bookId": "digital-fortress",
+      "locationId": "weinkiste-4",
+      "sourceId": "db47755757ba17955609a6b03c7b1834"
+    },
+    {
+      "id": "item-0724f6feed053c2c8af7fc7e8b553c8b",
+      "bookId": "origin",
+      "locationId": "weinkiste-4",
+      "sourceId": "0724f6feed053c2c8af7fc7e8b553c8b"
+    },
+    {
+      "id": "item-4bbc7aed92adc93c1aaa33158cd222ab",
+      "bookId": "inferno",
+      "locationId": "weinkiste-4",
+      "sourceId": "4bbc7aed92adc93c1aaa33158cd222ab"
+    },
+    {
+      "id": "item-d8691f2796a2f18ff4f914e4cf26ce2a",
+      "bookId": "the-lost-symbol",
+      "locationId": "weinkiste-4",
+      "sourceId": "d8691f2796a2f18ff4f914e4cf26ce2a"
+    },
+    {
+      "id": "item-3e69f209cec68e5a4cbc4722fbd700de",
+      "bookId": "illuminati",
+      "locationId": "weinkiste-4",
+      "sourceId": "3e69f209cec68e5a4cbc4722fbd700de"
+    },
+    {
+      "id": "item-10eab79f248c2557318365c9edbde5d0",
+      "bookId": "inferno",
+      "locationId": "weinkiste-4",
+      "sourceId": "10eab79f248c2557318365c9edbde5d0"
+    },
+    {
+      "id": "item-37e4a239df0fb2bc31ff53d680d77c36",
+      "bookId": "sakrileg-the-da-vinci-code",
+      "locationId": "weinkiste-4",
+      "sourceId": "37e4a239df0fb2bc31ff53d680d77c36"
+    },
+    {
+      "id": "item-719ed82460ac2f463699e51909499187",
+      "bookId": "weniger-schlecht-projekte-managen-ohne-krise-zum-projekterfolg",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "719ed82460ac2f463699e51909499187"
+    },
+    {
+      "id": "item-bcc2bebc1c130311d44146af8d35c869",
+      "bookId": "weniger-schlecht-programmieren",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "bcc2bebc1c130311d44146af8d35c869"
+    },
+    {
+      "id": "item-290b6c9f4e6223bc618d4a4ca5896abd",
+      "bookId": "full-stack-testing-a-practical-guide-for-delivering-high-quality-software",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "290b6c9f4e6223bc618d4a4ca5896abd"
+    },
+    {
+      "id": "item-ae58df266be96a0558d7618ccfaf917d",
+      "bookId": "spring-boot-2-moderne-softwareentwicklung-mit-spring-5",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "ae58df266be96a0558d7618ccfaf917d"
+    },
+    {
+      "id": "item-718923d0e2ae0f1cc24d709917d42c39",
+      "bookId": "sustainable-software-architecture-analyze-and-reduce-technical-debt",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "718923d0e2ae0f1cc24d709917d42c39"
+    },
+    {
+      "id": "item-1fa39c89aba7edb2e3cfdc25333821cc",
+      "bookId": "effektive-software-architekturen-ein-praktischer-leitfaden",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "1fa39c89aba7edb2e3cfdc25333821cc"
+    },
+    {
+      "id": "item-8b65ac270f8d8ce54964c94facceb472",
+      "bookId": "clean-architecture-a-craftsman-s-guide-to-software-structure-and-design",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "8b65ac270f8d8ce54964c94facceb472",
+      "note": "auch digital"
+    },
+    {
+      "id": "item-5664a2bbcb6aeaa0d6a1592573d42ce4",
+      "bookId": "clean-code-refactoring-patterns-testen-und-techniken-fur-sauberen-code",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "5664a2bbcb6aeaa0d6a1592573d42ce4",
+      "note": "auch digital"
+    },
+    {
+      "id": "item-c04db5d573adc93d7fb6bcb3e98b6ca9",
+      "bookId": "five-lines-of-code-clean-code-durch-gezieltes-refactoring",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "c04db5d573adc93d7fb6bcb3e98b6ca9",
+      "note": "auch digital"
+    },
+    {
+      "id": "item-c74c8b6af1bcbf8f530cec6dc3612cb5",
+      "bookId": "basiswissen-requirements-engineering-aus-und-weiterbildung-nach-ireb-standard-zum-certified-professional-for-requirements-engineering-foundation-level",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "c74c8b6af1bcbf8f530cec6dc3612cb5"
+    },
+    {
+      "id": "item-69fdce055cf31e0f70a1e2c6965d1c7f",
+      "bookId": "embedded-linux-mit-raspberry-pi-und-co",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "69fdce055cf31e0f70a1e2c6965d1c7f"
+    },
+    {
+      "id": "item-f7d35a81348672bea7197b28cc40f990",
+      "bookId": "grundkurs-software-engineering-mit-uml-der-pragmatische-weg-zu-erfolgreichen-softwareprojekten",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "f7d35a81348672bea7197b28cc40f990"
+    },
+    {
+      "id": "item-c1830b90e9bfa016ed549adcd4f4ed02",
+      "bookId": "dynamical-systems-with-applications-using-python",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "c1830b90e9bfa016ed549adcd4f4ed02"
+    },
+    {
+      "id": "item-89180174e47d26ded7c072fc3848f8c6",
+      "bookId": "two-scoops-of-django-1-11-best-practices-for-the-django-web-framework",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "89180174e47d26ded7c072fc3848f8c6"
+    },
+    {
+      "id": "item-3110822f6f3a2dd4822b1f50a0af2815",
+      "bookId": "beginning-django-cms-build-a-first-class-content-management-system-from-the-ground-up-the-easy-way",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "3110822f6f3a2dd4822b1f50a0af2815"
+    },
+    {
+      "id": "item-2dc279dbfede7a7770a9b270a1f2c795",
+      "bookId": "einstieg-in-python-ideal-fur-programmiereinsteiger",
+      "locationId": "crowdfarming-box-4",
+      "sourceId": "2dc279dbfede7a7770a9b270a1f2c795"
+    },
+    {
+      "id": "item-fd54797db3276303e3bf25dacac7a58d",
+      "bookId": "design-patterns-elements-of-reusable-object-oriented-software",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "fd54797db3276303e3bf25dacac7a58d",
+      "note": "auch digital"
+    },
+    {
+      "id": "item-303158e70f760180d8030c0bc2ec3f8c",
+      "bookId": "head-first-design-patterns-building-extensible-and-maintainable-object-oriented-software",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "303158e70f760180d8030c0bc2ec3f8c",
+      "note": "auch digital"
+    },
+    {
+      "id": "item-9ef379076ae87ddf945cd8e3199eaf26",
+      "bookId": "microelectronic-circuit-design-third-edition",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "9ef379076ae87ddf945cd8e3199eaf26"
+    },
+    {
+      "id": "item-0b6d97d2a4ccf8b8468340c0be64b255",
+      "bookId": "robust-and-adaptive-control-with-aerospace-applications",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "0b6d97d2a4ccf8b8468340c0be64b255"
+    },
+    {
+      "id": "item-cf80777362ebeadd4b9b50eb226486fc",
+      "bookId": "nichtlineare-regelungen",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "cf80777362ebeadd4b9b50eb226486fc"
+    },
+    {
+      "id": "item-01471fd7c316db67cad23ebb2a9f2ff8",
+      "bookId": "grundstock-des-wissens-wissen-2000-zusammenhange-erkennen-fakten-nachschlagen-prufungen-vorbereiten",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "01471fd7c316db67cad23ebb2a9f2ff8"
+    },
+    {
+      "id": "item-cfc78fd1779fa0bdf6fcf312c87c5b07",
+      "bookId": "objectives-and-key-results-wie-sie-ziele-auf-die-es-wirklich-ankommt-entwickeln-messen-und-umsetzen",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "cfc78fd1779fa0bdf6fcf312c87c5b07"
+    },
+    {
+      "id": "item-468548c5a55155af46670e2b32fbd39e",
+      "bookId": "mastering-professional-scrum-a-practitioner-s-guide-to-overcoming-challenges-and-maximizing-the-benefits-of-agility",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "468548c5a55155af46670e2b32fbd39e"
+    },
+    {
+      "id": "item-3b2f3c143b7b9a0216dba6834c6c363f",
+      "bookId": "scrum-mastery-from-good-to-great-servant-leadership-2nd-edition",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "3b2f3c143b7b9a0216dba6834c6c363f"
+    },
+    {
+      "id": "item-ebe6fa5572574bfc4057c0b0da2307a0",
+      "bookId": "influence-the-psychology-of-persuasion",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "ebe6fa5572574bfc4057c0b0da2307a0"
+    },
+    {
+      "id": "item-5238bc34ffc92958807cd92580fc39a4",
+      "bookId": "atomic-habits-an-easy-and-proven-way-to-build-good-habits-and-break-bad-ones",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "5238bc34ffc92958807cd92580fc39a4"
+    },
+    {
+      "id": "item-ec6259abe4fd5f93a26bd97a0e7553bd",
+      "bookId": "die-entscheidung-liegt-bei-dir-wege-aus-der-alltaglichen-unzufriedenheit",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "ec6259abe4fd5f93a26bd97a0e7553bd"
+    },
+    {
+      "id": "item-2cfa662a65ccecc10967a80217cc34db",
+      "bookId": "utopia-for-realists-and-how-we-can-get-there",
+      "locationId": "crowdfarming-box-5",
+      "sourceId": "2cfa662a65ccecc10967a80217cc34db"
+    },
+    {
+      "id": "item-c5fdb0c0f72c2df2fef7718e06965dde",
+      "bookId": "die-wanderhure",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": "c5fdb0c0f72c2df2fef7718e06965dde"
+    },
+    {
+      "id": "item-das-vermachtnis-der-wanderhure",
+      "bookId": "das-vermachtnis-der-wanderhure",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-kastellanin",
+      "bookId": "die-kastellanin",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-pilgerin",
+      "bookId": "die-pilgerin",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-feuerbraut",
+      "bookId": "die-feuerbraut",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-tochter-der-wanderhure",
+      "bookId": "die-tochter-der-wanderhure",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-mission-des-wanderchirurgen",
+      "bookId": "die-mission-des-wanderchirurgen",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-karl-popper-logic-of-scientific-discovery",
+      "bookId": "karl-popper-logic-of-scientific-discovery",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-einfach-freunde",
+      "bookId": "einfach-freunde",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-le-second-souffle",
+      "bookId": "le-second-souffle",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-herr-der-ringe-die-gefahrten",
+      "bookId": "der-herr-der-ringe-die-gefahrten",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-herr-der-ringe-die-zwei-turme",
+      "bookId": "der-herr-der-ringe-die-zwei-turme",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-herr-der-ringe-die-wiederkehr-des-konigs",
+      "bookId": "der-herr-der-ringe-die-wiederkehr-des-konigs",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-ein-hauch-von-schnee-und-asche",
+      "bookId": "ein-hauch-von-schnee-und-asche",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-letzte-konigreich",
+      "bookId": "das-letzte-konigreich",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-gottes-grab",
+      "bookId": "das-gottes-grab",
+      "locationId": "crowdfarming-box-6",
+      "sourceId": null
+    },
+    {
+      "id": "item-konigin-des-sudens",
+      "bookId": "konigin-des-sudens",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-voyeur",
+      "bookId": "voyeur",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-chemie-des-todes",
+      "bookId": "die-chemie-des-todes",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-kalte-asche",
+      "bookId": "kalte-asche",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-hof",
+      "bookId": "der-hof",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-limit",
+      "bookId": "limit",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-lautlos",
+      "bookId": "lautlos",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-schwarm",
+      "bookId": "der-schwarm",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-kampagne",
+      "bookId": "die-kampagne",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-i-robot-to-protect",
+      "bookId": "i-robot-to-protect",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-i-robot-to-obey",
+      "bookId": "i-robot-to-obey",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-brian-s-brain",
+      "bookId": "brian-s-brain",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-apollo-morde",
+      "bookId": "die-apollo-morde",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-stolz-and-vorurteil",
+      "bookId": "stolz-and-vorurteil",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-sofies-welt-roman-uber-die-geschichte-der-philosophie",
+      "bookId": "sofies-welt-roman-uber-die-geschichte-der-philosophie",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-gone-girl-das-perfekte-opfer",
+      "bookId": "gone-girl-das-perfekte-opfer",
+      "locationId": "crowdfarming-box-7",
+      "sourceId": null
+    },
+    {
+      "id": "item-sturz-der-titanen",
+      "bookId": "sturz-der-titanen",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-nacht-uber-den-wassern",
+      "bookId": "nacht-uber-den-wassern",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-world-without-end",
+      "bookId": "world-without-end",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-winter-der-welt",
+      "bookId": "winter-der-welt",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-third-twin",
+      "bookId": "the-third-twin",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-leopardin",
+      "bookId": "die-leopardin",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-nadel",
+      "bookId": "die-nadel",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-spur-der-fuchse",
+      "bookId": "die-spur-der-fuchse",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-pillars-of-the-earth",
+      "bookId": "the-pillars-of-the-earth",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-hammer-of-eden",
+      "bookId": "the-hammer-of-eden",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-tore-der-welt",
+      "bookId": "die-tore-der-welt",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-green-mile",
+      "bookId": "the-green-mile",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-augen-des-drachen",
+      "bookId": "die-augen-des-drachen",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-bose-in-uns",
+      "bookId": "das-bose-in-uns",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-simple-genius",
+      "bookId": "simple-genius",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-mann-unter-feuer",
+      "bookId": "mann-unter-feuer",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-diskrete-mr-flint",
+      "bookId": "der-diskrete-mr-flint",
+      "locationId": "crowdfarming-box-8",
+      "sourceId": null
+    },
+    {
+      "id": "item-domain-driven-design-tackling-complexity-in-the-heart-of-software",
+      "bookId": "domain-driven-design-tackling-complexity-in-the-heart-of-software",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-app",
+      "bookId": "die-app",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-fake",
+      "bookId": "fake",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-sharing",
+      "bookId": "sharing",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-offline",
+      "bookId": "offline",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-pretty-little-liars",
+      "bookId": "pretty-little-liars",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-pretty-little-liars-unbelievable",
+      "bookId": "pretty-little-liars-unbelievable",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-pretty-little-liars-flawless",
+      "bookId": "pretty-little-liars-flawless",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-pretty-little-liars-perfect",
+      "bookId": "pretty-little-liars-perfect",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-alltags-chillosoph-40-kluge-pausen",
+      "bookId": "der-alltags-chillosoph-40-kluge-pausen",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-kaltgestellt",
+      "bookId": "kaltgestellt",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-scriptum",
+      "bookId": "scriptum",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-hook",
+      "bookId": "hook",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-kanguru-triologie-die-kanguru-chroniken",
+      "bookId": "die-kanguru-triologie-die-kanguru-chroniken",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-kanguru-triologie-das-kanguru-manifest",
+      "bookId": "die-kanguru-triologie-das-kanguru-manifest",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-kanguru-triologie-die-kanguru-offenbarung",
+      "bookId": "die-kanguru-triologie-die-kanguru-offenbarung",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-lost-in-gentrification-gro-stadtgeschichten",
+      "bookId": "lost-in-gentrification-gro-stadtgeschichten",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-uber-wachen-und-schlafen-systemrelevanter-humor",
+      "bookId": "uber-wachen-und-schlafen-systemrelevanter-humor",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-qualityland",
+      "bookId": "qualityland",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-qualityland-2-0",
+      "bookId": "qualityland-2-0",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-achtsam-morden-im-hier-und-jetzt",
+      "bookId": "achtsam-morden-im-hier-und-jetzt",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-achtsam-morden-am-rande-der-welt",
+      "bookId": "achtsam-morden-am-rande-der-welt",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-gro-e-gatsby",
+      "bookId": "der-gro-e-gatsby",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-bro-code",
+      "bookId": "the-bro-code",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-bibel-einheitsubersetzung-altes-und-neues-testament",
+      "bookId": "die-bibel-einheitsubersetzung-altes-und-neues-testament",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-damals-war-es-friedrich",
+      "bookId": "damals-war-es-friedrich",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-maria-stuart",
+      "bookId": "maria-stuart",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-monsieur-ibrahim-et-les-fleurs-du-coran",
+      "bookId": "monsieur-ibrahim-et-les-fleurs-du-coran",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-parfum-die-geschichte-eines-morders",
+      "bookId": "das-parfum-die-geschichte-eines-morders",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-star-wars-episode-i-die-dunkle-bedrohung",
+      "bookId": "star-wars-episode-i-die-dunkle-bedrohung",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-star-wars-episode-ii-angriff-der-klonkrieger",
+      "bookId": "star-wars-episode-ii-angriff-der-klonkrieger",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-star-wars-episode-iii-die-rache-der-sith",
+      "bookId": "star-wars-episode-iii-die-rache-der-sith",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-star-wars-planet-der-verrater",
+      "bookId": "star-wars-planet-der-verrater",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-verdammnis",
+      "bookId": "verdammnis",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-vergebung",
+      "bookId": "vergebung",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-verblendung",
+      "bookId": "verblendung",
+      "locationId": "ikea-9",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-klugere-denkt-nach",
+      "bookId": "der-klugere-denkt-nach",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-happiness-by-design-finding-pleasure-and-purpose-in-everyday-life",
+      "bookId": "happiness-by-design-finding-pleasure-and-purpose-in-everyday-life",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-destiny-formula-find-your-purpose-overcome-your-fear-of-failure-use-your-natural-talents-and-strengths-to-build-a-successful-life",
+      "bookId": "the-destiny-formula-find-your-purpose-overcome-your-fear-of-failure-use-your-natural-talents-and-strengths-to-build-a-successful-life",
+      "locationId": "ikea-10",
+      "sourceId": null,
+      "note": "Selbst ausgedruckt. Ist also irgendwo auf dem Laptop."
+    },
+    {
+      "id": "item-business-model-you",
+      "bookId": "business-model-you",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-hertzmanns-s-coffee",
+      "bookId": "hertzmanns-s-coffee",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-making-of-a-manager-what-to-do-when-everyone-looks-to-you",
+      "bookId": "the-making-of-a-manager-what-to-do-when-everyone-looks-to-you",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-stille-ein-wegweise",
+      "bookId": "stille-ein-wegweise",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-it-s-all-good-andere-deine-perspektive-und-du-anderst-deine-welt",
+      "bookId": "it-s-all-good-andere-deine-perspektive-und-du-anderst-deine-welt",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-deep-work-rules-for-focused-success-in-a-distracted-world",
+      "bookId": "deep-work-rules-for-focused-success-in-a-distracted-world",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-also-sprach-zarathustra",
+      "bookId": "also-sprach-zarathustra",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-blitzscaling-the-lightning-fast-path-to-building-massively-valuable-companies",
+      "bookId": "blitzscaling-the-lightning-fast-path-to-building-massively-valuable-companies",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-nerd-attack-eine-geschichte-der-digitalen-welt-vom-c64-bis-zu-twitter-und-facebook",
+      "bookId": "nerd-attack-eine-geschichte-der-digitalen-welt-vom-c64-bis-zu-twitter-und-facebook",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-process-consultation-lessongs-for-managers-and-consultants",
+      "bookId": "process-consultation-lessongs-for-managers-and-consultants",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-10x-dna-das-mindset-der-zukunft",
+      "bookId": "10x-dna-das-mindset-der-zukunft",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-mikro-abenteuer",
+      "bookId": "mikro-abenteuer",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-odenwald-kletterfuhrer",
+      "bookId": "odenwald-kletterfuhrer",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-blue-ocean-strategy-how-to-create-uncontested-market-space-and-make-the-competition-irrelevant",
+      "bookId": "blue-ocean-strategy-how-to-create-uncontested-market-space-and-make-the-competition-irrelevant",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea",
+      "bookId": "that-will-never-work-the-birth-of-netflix-and-the-amazing-life-of-an-idea",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-real-help-an-hones-guide-to-self-improvement",
+      "bookId": "real-help-an-hones-guide-to-self-improvement",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-trust-yourself-stop-overthinking-and-channel-your-emotions-for-success-at-work",
+      "bookId": "trust-yourself-stop-overthinking-and-channel-your-emotions-for-success-at-work",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-schreibdenken-schreiben-als-denk-und-lernwerkzeug-nutzen-und-vermitteln",
+      "bookId": "schreibdenken-schreiben-als-denk-und-lernwerkzeug-nutzen-und-vermitteln",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential",
+      "bookId": "building-a-second-brain-a-proven-method-to-organize-your-digital-life-and-unlock-your-creative-potential",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-finde-dein-warum-der-praktische-wegweiser-zu-deiner-wahren-bestimmung",
+      "bookId": "finde-dein-warum-der-praktische-wegweiser-zu-deiner-wahren-bestimmung",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-schlaulenzen-warum-es-jetztzeit-ist-fur-die-reise-zu-unseren-potenzialen",
+      "bookId": "schlaulenzen-warum-es-jetztzeit-ist-fur-die-reise-zu-unseren-potenzialen",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-logik-des-misslingens-strategisches-denken-in-komplexen-situationen",
+      "bookId": "die-logik-des-misslingens-strategisches-denken-in-komplexen-situationen",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-radical-focus-achieving-your-most-important-goals-with-objectives-and-key-results",
+      "bookId": "radical-focus-achieving-your-most-important-goals-with-objectives-and-key-results",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-team-that-managed-itself-a-story-of-leadership",
+      "bookId": "the-team-that-managed-itself-a-story-of-leadership",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-limitless-upgrade-your-brain-learn-anything-faster-and-unlock-your-exceptional-life",
+      "bookId": "limitless-upgrade-your-brain-learn-anything-faster-and-unlock-your-exceptional-life",
+      "locationId": "ikea-10",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-flusterer",
+      "bookId": "der-flusterer",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-todliches-lachen",
+      "bookId": "todliches-lachen",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-bankerin",
+      "bookId": "die-bankerin",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-jager",
+      "bookId": "der-jager",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-achte-opfer",
+      "bookId": "das-achte-opfer",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-todlicher-absturz",
+      "bookId": "todlicher-absturz",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-blutwette",
+      "bookId": "blutwette",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-panther",
+      "bookId": "der-panther",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-teuflische-versprechen",
+      "bookId": "teuflische-versprechen",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-jung-blond-tot",
+      "bookId": "jung-blond-tot",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-erbin",
+      "bookId": "die-erbin",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-regen-macher",
+      "bookId": "der-regen-macher",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-firma",
+      "bookId": "die-firma",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-gestandnis",
+      "bookId": "das-gestandnis",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-anwalt",
+      "bookId": "der-anwalt",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-gerechte",
+      "bookId": "der-gerechte",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-jury",
+      "bookId": "die-jury",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-forderung",
+      "bookId": "forderung",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-bruderschaft",
+      "bookId": "die-bruderschaft",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-wachter",
+      "bookId": "die-wachter",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-komplott",
+      "bookId": "das-komplott",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-gefangene",
+      "bookId": "der-gefangene",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-verteidigung",
+      "bookId": "verteidigung",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-coach",
+      "bookId": "der-coach",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-reckoning",
+      "bookId": "the-reckoning",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-whistler",
+      "bookId": "the-whistler",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-client",
+      "bookId": "the-client",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-anklage",
+      "bookId": "anklage",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-tribute-von-panem-flammender-zorn",
+      "bookId": "die-tribute-von-panem-flammender-zorn",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-tribute-von-panem-gefahrliche-liebe",
+      "bookId": "die-tribute-von-panem-gefahrliche-liebe",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-betrogene",
+      "bookId": "die-betrogene",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-du-musst-nicht-von-allen-gemocht-werden-vom-mut-sich-nicht-zu-verbiegen",
+      "bookId": "du-musst-nicht-von-allen-gemocht-werden-vom-mut-sich-nicht-zu-verbiegen",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-du-bist-genug-vom-mut-glucklich-zu-sein",
+      "bookId": "du-bist-genug-vom-mut-glucklich-zu-sein",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-woyzeck",
+      "bookId": "woyzeck",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-sandmann-das-ode-haus",
+      "bookId": "der-sandmann-das-ode-haus",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-verbrecher-aus-verlorener-ehre",
+      "bookId": "der-verbrecher-aus-verlorener-ehre",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-faust-der-tragodie-erster-teil",
+      "bookId": "faust-der-tragodie-erster-teil",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-drau-en-vor-der-tur",
+      "bookId": "drau-en-vor-der-tur",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-helden-candida",
+      "bookId": "helden-candida",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-effi-briest",
+      "bookId": "effi-briest",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-don-carlos",
+      "bookId": "don-carlos",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-gesang-der-flusskrebse",
+      "bookId": "der-gesang-der-flusskrebse",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-panik",
+      "bookId": "panik",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-ewige-spie-er",
+      "bookId": "der-ewige-spie-er",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-dein-gehirn-wei-mehr-als-du-denkst-neuste-erkenntnisse-aus-der-hirnforschung",
+      "bookId": "dein-gehirn-wei-mehr-als-du-denkst-neuste-erkenntnisse-aus-der-hirnforschung",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-in-stahlgewittern",
+      "bookId": "in-stahlgewittern",
+      "locationId": "ikea-11",
+      "sourceId": null
+    },
+    {
+      "id": "item-buddenbrooks",
+      "bookId": "buddenbrooks",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-flug7angst",
+      "bookId": "flug7angst",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-passagier-23",
+      "bookId": "passagier-23",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-befehl-von-oben",
+      "bookId": "befehl-von-oben",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-artemis-fowl-der-geheimcode",
+      "bookId": "artemis-fowl-der-geheimcode",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-artemis-fowl-die-verschworung",
+      "bookId": "artemis-fowl-die-verschworung",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-artemis-fowl",
+      "bookId": "artemis-fowl",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future",
+      "bookId": "elon-musk-tesla-spacex-and-the-quest-for-a-fantastic-future",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-wei-en-feminismus-canceln-warum-unser-feminismus-feministischer-werden-muss",
+      "bookId": "wei-en-feminismus-canceln-warum-unser-feminismus-feministischer-werden-muss",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-highest-duty-my-search-for-what-really-matters",
+      "bookId": "highest-duty-my-search-for-what-really-matters",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-patient",
+      "bookId": "der-patient",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-damenopfer-katharina-klein-in-den-schlagzeilen",
+      "bookId": "damenopfer-katharina-klein-in-den-schlagzeilen",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-partitur-des-todes",
+      "bookId": "partitur-des-todes",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-justizpalast",
+      "bookId": "justizpalast",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-kleine-prinz",
+      "bookId": "der-kleine-prinz",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-ruf-des-kuckucks",
+      "bookId": "der-ruf-des-kuckucks",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-verurteilen-der-strafende-staat-und-die-soziologie",
+      "bookId": "verurteilen-der-strafende-staat-und-die-soziologie",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-braut-im-schnee",
+      "bookId": "die-braut-im-schnee",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-er-ist-wieder-da",
+      "bookId": "er-ist-wieder-da",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-mensch-kompaktwissen-2000-schlusselbegriffe",
+      "bookId": "der-mensch-kompaktwissen-2000-schlusselbegriffe",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-migrane",
+      "bookId": "migrane",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-kompaktatlas-menschlicher-korper",
+      "bookId": "kompaktatlas-menschlicher-korper",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-weihnachten-mit-agatha-christie",
+      "bookId": "weihnachten-mit-agatha-christie",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-fehlende-glied-in-der-kette-die-buchse-der-pandora-das-unvollendete-bildnis",
+      "bookId": "das-fehlende-glied-in-der-kette-die-buchse-der-pandora-das-unvollendete-bildnis",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-harry-potter-and-the-philosopher-s-stone",
+      "bookId": "harry-potter-and-the-philosopher-s-stone",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-harry-potter-and-the-deathly-hallows",
+      "bookId": "harry-potter-and-the-deathly-hallows",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-harry-potter-und-der-orden-des-phonix",
+      "bookId": "harry-potter-und-der-orden-des-phonix",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-ein-plotzlicher-todesfall",
+      "bookId": "ein-plotzlicher-todesfall",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-familienrecht-2-auflage",
+      "bookId": "familienrecht-2-auflage",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-sachenrecht-31-auflage",
+      "bookId": "sachenrecht-31-auflage",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-sachenrecht-32-auflage",
+      "bookId": "sachenrecht-32-auflage",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-burgerliches-gesetzbuch-64-auflage-2009",
+      "bookId": "burgerliches-gesetzbuch-64-auflage-2009",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-villa-nachtigal",
+      "bookId": "villa-nachtigal",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-poesie-album-von-lotte",
+      "bookId": "poesie-album-von-lotte",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-lexikon-der-antike",
+      "bookId": "lexikon-der-antike",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-jugend-brockhaus-1",
+      "bookId": "der-jugend-brockhaus-1",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-jugend-brockhaus-2",
+      "bookId": "der-jugend-brockhaus-2",
+      "locationId": "ikea-12",
+      "sourceId": null
+    },
+    {
+      "id": "item-richter-morden-besser",
+      "bookId": "richter-morden-besser",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-richter-jagen-besser",
+      "bookId": "richter-jagen-besser",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-vater-unser",
+      "bookId": "vater-unser",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-argus",
+      "bookId": "argus",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-madchenfanger",
+      "bookId": "madchenfanger",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-samariter",
+      "bookId": "samariter",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-cupido",
+      "bookId": "cupido",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-mords-freunde",
+      "bookId": "mords-freunde",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-lebenden-und-die-toten",
+      "bookId": "die-lebenden-und-die-toten",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-wer-wind-sat",
+      "bookId": "wer-wind-sat",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-tiefe-wunden-schneewittchen-muss-sterben",
+      "bookId": "tiefe-wunden-schneewittchen-muss-sterben",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-boser-wolf",
+      "bookId": "boser-wolf",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-eine-unbeliebte-frau",
+      "bookId": "eine-unbeliebte-frau",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-unter-haien",
+      "bookId": "unter-haien",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-alles-uber-flugzeuge-wieso-weshalb-warum",
+      "bookId": "alles-uber-flugzeuge-wieso-weshalb-warum",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-biss-zum-ende-der-nacht",
+      "bookId": "biss-zum-ende-der-nacht",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-biss-zur-mittagsstunde",
+      "bookId": "biss-zur-mittagsstunde",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-biss-zum-abendrot",
+      "bookId": "biss-zum-abendrot",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-biss-zum-morgengrauen",
+      "bookId": "biss-zum-morgengrauen",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-new-moon",
+      "bookId": "new-moon",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-eclipse",
+      "bookId": "eclipse",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-twilight",
+      "bookId": "twilight",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-taube",
+      "bookId": "die-taube",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-merkwurdige-kriminalfalle-des-richters-di-detektivromand-um-einen-altchinesischen-sherlock-holmes",
+      "bookId": "merkwurdige-kriminalfalle-des-richters-di-detektivromand-um-einen-altchinesischen-sherlock-holmes",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-casion-royale",
+      "bookId": "casion-royale",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-fall-collini",
+      "bookId": "der-fall-collini",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-im-recht-einlassungen-von-deutschlands-bekanntestem-strafrichter",
+      "bookId": "im-recht-einlassungen-von-deutschlands-bekanntestem-strafrichter",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-flying-leap-a-novel-in-perspective",
+      "bookId": "flying-leap-a-novel-in-perspective",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-frankfurt-myliusstra-e",
+      "bookId": "frankfurt-myliusstra-e",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-einfuhrung-in-die-sozialpsychologie",
+      "bookId": "einfuhrung-in-die-sozialpsychologie",
+      "locationId": "ikea-13",
+      "sourceId": null
+    },
+    {
+      "id": "item-kochbucher",
+      "bookId": "kochbucher",
+      "locationId": "ikea-14",
+      "sourceId": null
+    },
+    {
+      "id": "item-russische-bucher",
+      "bookId": "russische-bucher",
+      "locationId": "ikea-14",
+      "sourceId": null
+    },
+    {
+      "id": "item-programmierte-lateinische-grammatik",
+      "bookId": "programmierte-lateinische-grammatik",
+      "locationId": "ikea-14",
+      "sourceId": null
+    },
+    {
+      "id": "item-berg-heil",
+      "bookId": "berg-heil",
+      "locationId": "ikea-14",
+      "sourceId": null
+    },
+    {
+      "id": "item-physik-mittelstufe",
+      "bookId": "physik-mittelstufe",
+      "locationId": "ikea-14",
+      "sourceId": null
+    },
+    {
+      "id": "item-brockhaus-1-2",
+      "bookId": "brockhaus-1-2",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-apa-guide-london",
+      "bookId": "apa-guide-london",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-abbitte",
+      "bookId": "abbitte",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-1001-nacht",
+      "bookId": "1001-nacht",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-meyers-handbuch-uber-die-musik",
+      "bookId": "meyers-handbuch-uber-die-musik",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-div-uni-skripte-regelungstechnik",
+      "bookId": "div-uni-skripte-regelungstechnik",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-personliche-journals-alex",
+      "bookId": "personliche-journals-alex",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-schonfelder-jura-lotte",
+      "bookId": "schonfelder-jura-lotte",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-lean-startup",
+      "bookId": "the-lean-startup",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-pre-suasion",
+      "bookId": "pre-suasion",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-fearless-organization-creating-psychological-safety-in-the-workplace-for-learning-innovation-and-growth",
+      "bookId": "the-fearless-organization-creating-psychological-safety-in-the-workplace-for-learning-innovation-and-growth",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-wechselmodell-studien-zum-deutschen-und-internationalen-familien-und-erbrecht",
+      "bookId": "das-wechselmodell-studien-zum-deutschen-und-internationalen-familien-und-erbrecht",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-grenzen-des-vorrangs-der-ambulanten-vo-der-stationaren-pflege-in-der-sozialen-pflegeversicherung",
+      "bookId": "grenzen-des-vorrangs-der-ambulanten-vo-der-stationaren-pflege-in-der-sozialen-pflegeversicherung",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-berufsrecht-der-anwaltschaft-19-auflage-2019",
+      "bookId": "berufsrecht-der-anwaltschaft-19-auflage-2019",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-minds-and-machines-journal-of-philosophy-cognitive-science-and-artifical-intelligence",
+      "bookId": "minds-and-machines-journal-of-philosophy-cognitive-science-and-artifical-intelligence",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-how-to-be-everything",
+      "bookId": "how-to-be-everything",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-girls-who-code",
+      "bookId": "girls-who-code",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-frohes-schaffen",
+      "bookId": "frohes-schaffen",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-social-intranet",
+      "bookId": "das-social-intranet",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-der-bitcoin-standard",
+      "bookId": "der-bitcoin-standard",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-gluck",
+      "bookId": "gluck",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-mythical-man-month",
+      "bookId": "the-mythical-man-month",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-leading-design",
+      "bookId": "leading-design",
+      "locationId": "ikea-15",
+      "sourceId": null
+    },
+    {
+      "id": "item-neue-musikgeschichtliche-forschungen-die-entwicklung-der-sonatenform-im-musiktheoretischen-schrifttum-des-18-und-19-jahrhunderts",
+      "bookId": "neue-musikgeschichtliche-forschungen-die-entwicklung-der-sonatenform-im-musiktheoretischen-schrifttum-des-18-und-19-jahrhunderts",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-drama-des-begabten-kindes-eine-um-und-fortschreibung",
+      "bookId": "das-drama-des-begabten-kindes-eine-um-und-fortschreibung",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-fahnrich-charlotte",
+      "bookId": "fahnrich-charlotte",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-kindeswohl",
+      "bookId": "kindeswohl",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-symposion",
+      "bookId": "symposion",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-schiller",
+      "bookId": "schiller",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-bucher-der-geschichte-vii-ix",
+      "bookId": "die-bucher-der-geschichte-vii-ix",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-cicero",
+      "bookId": "cicero",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-vergil",
+      "bookId": "vergil",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-musik-schulerduden",
+      "bookId": "die-musik-schulerduden",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-abc-der-formenlehre",
+      "bookId": "das-abc-der-formenlehre",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-ich-finde-dich",
+      "bookId": "ich-finde-dich",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-menschen-entschlusseln-ein-kriminalpsychologe-erklart-wie-man-spezielle-analyse-und-profilingtechniken-im-alltag-nutzt",
+      "bookId": "menschen-entschlusseln-ein-kriminalpsychologe-erklart-wie-man-spezielle-analyse-und-profilingtechniken-im-alltag-nutzt",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-wave-the-classroom-is-out-of-control",
+      "bookId": "the-wave-the-classroom-is-out-of-control",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-insel-des-vollkommenen-glucks",
+      "bookId": "die-insel-des-vollkommenen-glucks",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-richard-branson-loosing-my-virginity",
+      "bookId": "richard-branson-loosing-my-virginity",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-microservices-recipes",
+      "bookId": "microservices-recipes",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-domain-driven-design-referenz",
+      "bookId": "domain-driven-design-referenz",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-datenbanken-datenmodelle-skalierung-cloud",
+      "bookId": "datenbanken-datenmodelle-skalierung-cloud",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-zero-to-one-notes-on-startups-or-how-to-build-the-future",
+      "bookId": "zero-to-one-notes-on-startups-or-how-to-build-the-future",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-will",
+      "bookId": "will",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-goal",
+      "bookId": "the-goal",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-nikomachische-ethik",
+      "bookId": "nikomachische-ethik",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-knoten-fur-alltag-sport-and-freizeit",
+      "bookId": "knoten-fur-alltag-sport-and-freizeit",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-22-immutable-laws-of-marketing-violate-them-at-your-own-risk",
+      "bookId": "the-22-immutable-laws-of-marketing-violate-them-at-your-own-risk",
+      "locationId": "ikea-16",
+      "sourceId": null,
+      "note": "PDF Ausdruck - PowerMBA"
+    },
+    {
+      "id": "item-slingshot-re-imagine-your-business-re-imagine-your-life",
+      "bookId": "slingshot-re-imagine-your-business-re-imagine-your-life",
+      "locationId": "ikea-16",
+      "sourceId": null,
+      "note": "PDF Ausdruck - PowerMBA"
+    },
+    {
+      "id": "item-selbstorganisation-brauch-fuhrung-die-einfachen-geheimnisse-agilen-managements",
+      "bookId": "selbstorganisation-brauch-fuhrung-die-einfachen-geheimnisse-agilen-managements",
+      "locationId": "ikea-16",
+      "sourceId": null,
+      "note": "Auch als PDF in Books"
+    },
+    {
+      "id": "item-ismael",
+      "bookId": "ismael",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-building-a-story-brand-clarify-your-message-so-customers-will-listen",
+      "bookId": "building-a-story-brand-clarify-your-message-so-customers-will-listen",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-fachtfullness-wie-wir-lernen-die-welt-so-zu-sehen-wie-sie-wirklich-ist",
+      "bookId": "fachtfullness-wie-wir-lernen-die-welt-so-zu-sehen-wie-sie-wirklich-ist",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-kunstliche-intelligenz-und-der-sinn-des-lebens",
+      "bookId": "kunstliche-intelligenz-und-der-sinn-des-lebens",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-how-to-stop-worrying-and-start-living-time-tested-methods-for-conquering-worry-and-anxiety",
+      "bookId": "how-to-stop-worrying-and-start-living-time-tested-methods-for-conquering-worry-and-anxiety",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-managerkonferenz-effektives-fuhrungstraining",
+      "bookId": "managerkonferenz-effektives-fuhrungstraining",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-communication-for-engineers-a-framework-for-software-developers-to-become-better-communicators-and-increase-their-happiness-productivity-and-impact",
+      "bookId": "communication-for-engineers-a-framework-for-software-developers-to-become-better-communicators-and-increase-their-happiness-productivity-and-impact",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-953ad94af278ff29a58ee8e6777b1e6a",
+      "bookId": "observability-engineering-achieving-production-excellence",
+      "locationId": "ikea-16",
+      "sourceId": "953ad94af278ff29a58ee8e6777b1e6a"
+    },
+    {
+      "id": "item-designing-for-growth-a-design-thinking-tool-kit-for-managers",
+      "bookId": "designing-for-growth-a-design-thinking-tool-kit-for-managers",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-principles-life-and-work",
+      "bookId": "principles-life-and-work",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-silva-mind-control-steigerung-der-kreativitat-und-leistungsfahigkeit-des-menschlichen-geistes",
+      "bookId": "silva-mind-control-steigerung-der-kreativitat-und-leistungsfahigkeit-des-menschlichen-geistes",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-7-wege-zur-effektivitat-prinzipien-fur-personlichen-und-beruflichen-erfolg",
+      "bookId": "die-7-wege-zur-effektivitat-prinzipien-fur-personlichen-und-beruflichen-erfolg",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-business-made-simple-60-days-to-master-leadership-sales-marketing-execution-management-personal-productivity-and-more",
+      "bookId": "business-made-simple-60-days-to-master-leadership-sales-marketing-execution-management-personal-productivity-and-more",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-hypothesis-driven-development-a-guide-to-smarter-product-management",
+      "bookId": "hypothesis-driven-development-a-guide-to-smarter-product-management",
+      "locationId": "ikea-16-tansania",
+      "sourceId": null
+    },
+    {
+      "id": "item-denkwerkzeuge-der-hochstleister-wie-dynamikrobuste-unternehmen-marktdruck-erzeugen",
+      "bookId": "denkwerkzeuge-der-hochstleister-wie-dynamikrobuste-unternehmen-marktdruck-erzeugen",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-bushcraft-101-uberleben-in-der-wildnis-der-ultimative-praxixfuhrer",
+      "bookId": "bushcraft-101-uberleben-in-der-wildnis-der-ultimative-praxixfuhrer",
+      "locationId": "ikea-16",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-4-hour-work-week-escape-the-9-5-live-anywhere-and-join-the-new-rich",
+      "bookId": "the-4-hour-work-week-escape-the-9-5-live-anywhere-and-join-the-new-rich",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-design-your-work-life-how-to-thrive-and-change-and-find-happiness-at-work",
+      "bookId": "design-your-work-life-how-to-thrive-and-change-and-find-happiness-at-work",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-make-time-how-to-focus-on-what-matters-every-day",
+      "bookId": "make-time-how-to-focus-on-what-matters-every-day",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-goal-setting-the-ultimate-guide-to-achieving-goals-that-truly-excite-you",
+      "bookId": "goal-setting-the-ultimate-guide-to-achieving-goals-that-truly-excite-you",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-learning-functional-programming-managing-code-complexity-by-thinking-functionally",
+      "bookId": "learning-functional-programming-managing-code-complexity-by-thinking-functionally",
+      "locationId": "ikea-17",
+      "sourceId": null,
+      "note": "eingescannt"
+    },
+    {
+      "id": "item-das-zettelkasten-prinzip-erfolgreich-wissenschaftlich-schreiben-und-studieren-mit-effektiven-notizen",
+      "bookId": "das-zettelkasten-prinzip-erfolgreich-wissenschaftlich-schreiben-und-studieren-mit-effektiven-notizen",
+      "locationId": "ikea-17",
+      "sourceId": null,
+      "note": "eingescannt"
+    },
+    {
+      "id": "item-zeitmanagement",
+      "bookId": "zeitmanagement",
+      "locationId": "ikea-17",
+      "sourceId": null,
+      "note": "eingescannt"
+    },
+    {
+      "id": "item-think-like-a-rocket-scientist-simple-strategies-you-can-use-to-make-giant-leaps-in-work-and-life",
+      "bookId": "think-like-a-rocket-scientist-simple-strategies-you-can-use-to-make-giant-leaps-in-work-and-life",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-bulletproof-problem-solving-the-one-skill-that-changes-everything",
+      "bookId": "bulletproof-problem-solving-the-one-skill-that-changes-everything",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-never-split-the-difference-negotiating-as-if-your-life-depended-on-it",
+      "bookId": "never-split-the-difference-negotiating-as-if-your-life-depended-on-it",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-maybe-you-should-give-up",
+      "bookId": "maybe-you-should-give-up",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-how-to-disagree",
+      "bookId": "how-to-disagree",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-teaching-with-tendernes",
+      "bookId": "teaching-with-tendernes",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-running-lean-iterate-from-plan-a-to-a-plan-that-works",
+      "bookId": "running-lean-iterate-from-plan-a-to-a-plan-that-works",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-rechtsfragen-zur-ehe",
+      "bookId": "rechtsfragen-zur-ehe",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-network-thinking-was-kommt-nach-dem-brockhaus-denken",
+      "bookId": "network-thinking-was-kommt-nach-dem-brockhaus-denken",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-trage-transformation-welche-denkfehler-den-digitalen-wandel-blockieren",
+      "bookId": "trage-transformation-welche-denkfehler-den-digitalen-wandel-blockieren",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-was-ist-liebe-sokratest-die-gro-en-philosophen-uber-das-schonste-aller-gefuhle",
+      "bookId": "was-ist-liebe-sokratest-die-gro-en-philosophen-uber-das-schonste-aller-gefuhle",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-niklas-luhmanns-theorie-sozialer-systeme",
+      "bookId": "niklas-luhmanns-theorie-sozialer-systeme",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-das-neue-lernen-hei-t-verstehen",
+      "bookId": "das-neue-lernen-hei-t-verstehen",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-learn-like-a-pro-science-based-tools-to-become-better-at-anything",
+      "bookId": "learn-like-a-pro-science-based-tools-to-become-better-at-anything",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-learning-to-make-a-difference-value-creation-in-social-learning-spaces",
+      "bookId": "learning-to-make-a-difference-value-creation-in-social-learning-spaces",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-morderfinder",
+      "bookId": "morderfinder",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-no-one-dies-yet",
+      "bookId": "no-one-dies-yet",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-the-diary-of-a-young-girl",
+      "bookId": "the-diary-of-a-young-girl",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-technik-des-modernen-verkehrsflugzeuges",
+      "bookId": "die-technik-des-modernen-verkehrsflugzeuges",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-konsum-warum-wir-kaufen-was-wir-nicht-brauchen",
+      "bookId": "konsum-warum-wir-kaufen-was-wir-nicht-brauchen",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-die-abwertung-der-mutter-wie-uberholte-familienpolitik-uns-den-wohlstand-kostet",
+      "bookId": "die-abwertung-der-mutter-wie-uberholte-familienpolitik-uns-den-wohlstand-kostet",
+      "locationId": "ikea-17",
+      "sourceId": null
+    },
+    {
+      "id": "item-justice-justice-thou-shalt-pursue",
+      "bookId": "justice-justice-thou-shalt-pursue",
+      "locationId": "ikea-17",
+      "sourceId": null
+    }
+  ]
+}

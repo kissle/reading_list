@@ -6,6 +6,7 @@
  *   docs/library.md
  *   docs/reading-list.md
  *   docs/categories.md
+ *   docs/inventory.md
  *
  * Run:  node scripts/build-markdown.js
  *       npm run build:docs
@@ -23,6 +24,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const BOOKS_PATH = path.join(ROOT, 'data', 'books.json');
 const READING_LIST_PATH = path.join(ROOT, 'data', 'reading-list.json');
+const INVENTORY_PATH = path.join(ROOT, 'data', 'inventory.json');
 const DOCS_DIR = path.join(ROOT, 'docs');
 
 // ---------------------------------------------------------------------------
@@ -181,6 +183,63 @@ function buildCategories(books) {
 }
 
 // ---------------------------------------------------------------------------
+// Build docs/inventory.md
+// ---------------------------------------------------------------------------
+
+function buildInventory(inventory, booksById) {
+  const lines = [
+    '# Inventory',
+    '',
+    '> Auto-generated from `data/inventory.json`. Edit the JSON file, then run `npm run build:docs`.',
+    '',
+    `**Total locations:** ${inventory.locations.length}`,
+    `**Total inventory items:** ${inventory.items.length}`,
+    '',
+  ];
+
+  const itemsByLocation = {};
+  for (const location of inventory.locations) {
+    itemsByLocation[location.id] = [];
+  }
+
+  for (const item of inventory.items) {
+    if (!itemsByLocation[item.locationId]) itemsByLocation[item.locationId] = [];
+    itemsByLocation[item.locationId].push(item);
+  }
+
+  for (const location of inventory.locations) {
+    lines.push(`## ${location.label}`, '');
+    lines.push(`Type: ${location.type}`, '');
+
+    const items = (itemsByLocation[location.id] || []).sort((a, b) => {
+      const titleA = booksById[a.bookId] ? booksById[a.bookId].title : a.bookId;
+      const titleB = booksById[b.bookId] ? booksById[b.bookId].title : b.bookId;
+      return titleA.localeCompare(titleB);
+    });
+
+    if (items.length === 0) {
+      lines.push('*No items recorded.*', '');
+      continue;
+    }
+
+    for (const item of items) {
+      const book = booksById[item.bookId];
+      if (!book) {
+        lines.push(`- ⚠️ Unknown bookId: \`${item.bookId}\``);
+        continue;
+      }
+
+      const itemNote = item.note ? ` — ${item.note}` : '';
+      lines.push(`- **${book.title}** by ${book.author}${itemNote}`);
+    }
+
+    lines.push('');
+  }
+
+  return lines.join('\n');
+}
+
+// ---------------------------------------------------------------------------
 // Main
 // ---------------------------------------------------------------------------
 
@@ -189,6 +248,7 @@ function main() {
 
   const books = loadJSON(BOOKS_PATH);
   const readingList = loadJSON(READING_LIST_PATH);
+  const inventory = loadJSON(INVENTORY_PATH);
 
   const booksById = {};
   for (const book of books) booksById[book.id] = book;
@@ -198,6 +258,7 @@ function main() {
   write(path.join(DOCS_DIR, 'library.md'), buildLibrary(books));
   write(path.join(DOCS_DIR, 'reading-list.md'), buildReadingList(readingList, booksById));
   write(path.join(DOCS_DIR, 'categories.md'), buildCategories(books));
+  write(path.join(DOCS_DIR, 'inventory.md'), buildInventory(inventory, booksById));
 
   console.log('Done.');
 }

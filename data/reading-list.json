@@ -18,6 +18,11 @@
       "note": "Dip in and out — great as a reference too."
     },
     {
+      "bookId": "the-mom-test",
+      "addedAt": "2026-03-19T11:15:00.000Z",
+      "note": "Added from your physical collection."
+    },
+    {
       "bookId": "oversubscribed",
       "addedAt": "2026-03-18T00:00:00.000Z",
       "note": "Useful for sharpening demand generation and launch thinking."
@@ -26,6 +31,11 @@
       "bookId": "the-embedded-entrepreneur",
       "addedAt": "2026-03-18T00:00:00.000Z",
       "note": "Relevant for customer-first product and business building ideas."
+    },
+    {
+      "bookId": "100m-offers",
+      "addedAt": "2026-03-19T11:15:00.000Z",
+      "note": "Added from your physical collection."
     }
   ],
   "parkingLot": [
